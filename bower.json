@@ -1,6 +1,6 @@
 {
-  "name": "js-xlsx",
-  "homepage": "https://github.com/TheRev433/js-xlsx",
+  "name": "plus-xlsx",
+  "homepage": "https://github.com/TheRev433/plus-xlsx",
   "main": "dist/xlsx.js",
   "version": "0.8.16",
   "ignore": [
